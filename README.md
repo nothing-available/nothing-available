@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @nothing-available
 - 👀 I’m interested in coding.
+- 🌱 I’m currently learning DSA, web development.
+
+* [LinkedIn](linkedin.com/in/nothingavail/)
+* 
 
 
 <!---
