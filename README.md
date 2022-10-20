@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA, web development.
 
 * [LinkedIn](linkedin.com/in/nothingavail/)
-* 
+
 
 
 <!---
