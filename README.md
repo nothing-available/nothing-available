@@ -16,3 +16,5 @@
 [![](https://visitcount.itsvg.in/api?id=nothing-available&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/nothing-available/Actions/blob/output/github-contribution-grid-snake.svg)
