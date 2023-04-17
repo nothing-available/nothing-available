@@ -1,4 +1,4 @@
-# Hi, I'm Sumit 👋🏾 👩🏾‍💻
+# Hi, I'm Sumit 👋🏾 
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&lines=I+Solve+Problems+With+Code)](https://git.io/typing-svg)
 
