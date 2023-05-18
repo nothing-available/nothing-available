@@ -36,8 +36,7 @@
 </p>
   
 ## :medal_sports: Stats for nerds
-<img  src="https://github-readme-stats.vercel.app/api?username=nothing-available&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=nothing-available&theme=dark" width="48%" >
+<img  src="https://github-readme-stats.vercel.app/api?username=nothing-available&show_icons=true&hide_border=true&theme=dark" width="48%" align="center" >
 <br>
   <div align="center">
 
