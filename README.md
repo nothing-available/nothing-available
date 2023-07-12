@@ -15,20 +15,37 @@ const Sumit = {
     code: ["Javascript", "C++"],
     askMeAbout: ["web dev", "tech", "app dev", "music"],
     technologies: {
-       mobileApp: ["Android", "IOS"],
+      frontEnd: {
+         dart: ["Flutter"],
+         js: ["React", "Angular"],
+         css: ["Materialize", "Bootstrap", "Material Design", "Semantic UI"]
+      },
        backEnd: {
             js: ["node", "express" ],
         },
         databases: ["mongo", "MySql", "sqlite"],
+        mobile_app: ["Android", "IOS"],
         misc: ["Firebase"]
+
     },
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
 
-<img  src="https://github-readme-stats.vercel.app/api?username=nothing-available&show_icons=true&hide_border=true&theme=dark" width="48%" align="center" >
+<h2 align="center">Github stats :bar_chart:</h2>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/nothing-available/count.svg" />
-</p>
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{nothing-available}/count.svg" alt="nothing-available :: Visitor's Count" /></p>
+
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothing-available&langs_count=10&theme=tokyonight&layout=compact" alt="nothing-available :: Top Langs" /></p>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=nothing-available&show_icons=true&theme=synthwave" alt="nothing-available :: Profile Stats" /></p>
+
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+
+
