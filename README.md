@@ -7,7 +7,7 @@
 
 
 
-Here's my `Manifest.toml`:
+Here's my `Manifest.toml` :
 
 ```javascript
 const Sumit = {
