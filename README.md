@@ -32,20 +32,45 @@ const Sumit = {
 };
 ```
 
-<h2 align="center">Github stats :bar_chart:</h2>
 
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{nothing-available}/count.svg" alt="nothing-available :: Visitor's Count" /></p>
+<hr/>
 
 <h4 align="center">Top langs :tongue:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothing-available&langs_count=10&theme=tokyonight&layout=compact" alt="nothing-available :: Top Langs" /></p>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+<div align="center">
+    
+<hr/>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=nothing-available&show_icons=true&theme=synthwave" alt="nothing-available :: Profile Stats" /></p>
+### Contributions
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nothing-available&theme=monokai&hide_border=true&fire=DD2727" alt="Sumit Kumar" />
+</div>
+<hr/>
+<div align="center">
+ 
+ ### GitHub Stats
+
+ <img  alt="Madhumita's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nothing-available&show_icons=true&hide_border=true&theme=monokai&hide_border=true&fire=DD2727" />
+
+</div>
+<div align="center">
+ <hr/>
+
+### Productivity Stats
+
+
+ ![Sumit's Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nothing-available&theme=monokai)
+
+</div>
+<br/>
+<div align="center">
+ <hr/>
+
+ <h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{nothing-available}/count.svg" alt="nothing-available :: Visitor's Count" /></p>
+
 
 
