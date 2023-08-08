@@ -1,5 +1,7 @@
 ## नमस्ते 🙏
+
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&lines=I+Solve+Problems+With+Code)](https://git.io/typing-svg)
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nothingavail/)](https://www.linkedin.com/in/nothingavail/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/i_m_caffeine) 
 [![](https://img.shields.io/badge/Leetcode-i_m_caffeine-brightgreen)](https://leetcode.com/i_m_caffeine/)
@@ -7,26 +9,26 @@
 
 
 
-Here's my `Manifest.toml` :
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
 ```javascript
 const Sumit = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "C++"],
-    askMeAbout: ["web dev", "tech", "app dev", "music"],
+    code: ["C ++", "JavaScript"],
+    askMeAbout: ["web_dev", "tech", "app_dev", "dsa"],
     technologies: {
-      frontEnd: {
-         dart: ["Flutter"],
-         js: ["React", "Angular"],
-         css: ["Materialize", "Bootstrap", "Material Design", "Semantic UI"]
-      },
-       backEnd: {
+        frontEnd:{
+            js: ["React", "Next"],
+            css: ["Materialize", "Bootstrap", "Material Design", "Semantic UI"],
+        },
+        backEnd: {
             js: ["node", "express" ],
         },
+        mobileApp:{
+          flutter: ["Android_Development"]  
+        },
         databases: ["mongo", "MySql", "sqlite"],
-        mobile_app: ["Android", "IOS"],
-        misc: ["Firebase"]
-
+        misc: ["Firebase", "php"]
     },
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
