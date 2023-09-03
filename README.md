@@ -5,6 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nothingavail/)](https://www.linkedin.com/in/nothingavail/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/i_m_caffeine) 
 [![](https://img.shields.io/badge/Leetcode-i_m_caffeine-brightgreen)](https://leetcode.com/i_m_caffeine/)
+[![](https://img.shields.io/badge/GfG-i_m_caffeine-pink)](https://auth.geeksforgeeks.org/user/i_m_caffeine/practice)
 [![](https://img.shields.io/badge/Gmail-imcaffiene%40gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 
 
