@@ -20,7 +20,7 @@ const Sumit = {
     technologies: {
         frontEnd:{
             js: ["React", "Next"],
-            css: ["Materialize", "Bootstrap", "Material Design", "Semantic UI"],
+            css: ["Materialize", "Tailwind CSS"],
         },
         backEnd: {
             js: ["node", "express" ],
