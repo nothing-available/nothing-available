@@ -1,6 +1,6 @@
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 ## नमस्ते 🙏 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&lines=I+Solve+Problems+With+Code)](https://git.io/typing-svg)
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me... 
 
