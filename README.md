@@ -32,20 +32,7 @@
 <br/> <br/>
 
 
-<table>
-  <tr>
-    <td>
-      <a href="https://www.github.com/nothing-available">
-     <img src="https://github-readme-stats.vercel.app/api?username=nothing-available&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="nothing-available" />
-      </a>
-    </td>
-    <td> 
-      <a href="https://www.github.com/nothing-available">
-       <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=nothing-available&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
+
 
 <br/> <br/>
 
