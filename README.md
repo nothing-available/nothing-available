@@ -16,8 +16,6 @@
   <br />
   💻 I love to learn new technologies and frameworks.
   <br />
-  🧑‍💼 I’m currently a freelancer working as a Next.js developer.
-  <br />
 </p>
 
 <!-- social handles -->
